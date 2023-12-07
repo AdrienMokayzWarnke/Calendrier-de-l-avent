@@ -124,6 +124,7 @@ class  Game {
     }
 
     public int getId(){
+
         boolean isValid = true;
         for(Set s : this.sets){
             if(!s.isValid){
