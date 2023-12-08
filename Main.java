@@ -11,7 +11,10 @@ public class Main {
         //System.out.println(Day1.solution(true));
         //System.out.println(Day2.solution(true));
         //System.out.println(Day3.solution(true));
-        System.out.println(Day4.solution(true));
+        //System.out.println(Day4.solution(true));
+        //System.out.println(Day5.solution(false));
+        //System.out.println(Day6.solution(false));
+        System.out.println(Day7.solution(false));
 
     }
 }
